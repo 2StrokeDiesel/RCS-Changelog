@@ -1,0 +1,4 @@
+RCS-ChangeLog !Template!
++ some things added
+- some epic error removed
+! some note
